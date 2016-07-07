@@ -1,8 +1,43 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+	"CONNECT ME": "",
+	
+	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nI just found a picture of Mark and his Mum (Don't tell him) ;) \n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/meandmom.jpg)\nLet's chat about his Career. That's why he built me after all. %[Career](postback:Career)",
+	
+	"CAREER":"Great, I love talking about Mark's career. \nLast time I checked (which was 3sec ago), he still works at Pioneer Investments. %[Tell me more](postback:Tell_me_more)",
+	
+	"TELL ME MORE":"OK, you asked for it! \nMark works in Investment Operations. \nSee, Mark looks after loads of Mutual and Hedge funds. There's $$$ flying round everywhere!. \nMark makes sure the money is correctly settled into the right funds. \nSo that Traders have access to cash when they need it-simple really ;) Where else did he work? %[Past Jobs](postback:past_jobs) %[Startups](postback:startups)",
+	
+	"STARTUPS":"Mark would love to build his own Startup. He tried twice and failed!\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/dreams%20and%20hopes.gif)\nBut failing doesn't stop him from trying again. If you make a mistake, you learn and move forward. \nWould you like to know one of the Startups Mark worked on? Or skip to his past jobs? %[Past Jobs](postback:past_jobs) %[Yes Please](postback:yes_please)",
+	
+	"YES PLEASE":"OK, Mark and Nnenna built an on-demand Babysitting service, called Bummbl.\nBummbl had a few hundred sitters signed up and ready to Sit. We were developing the site and supporting technology to create an easy system for both parents and sitters.\nBut unfortunately Bummbl ran out of funding! :( Bummbl was a great learning experience for Mark. Anyway, shall we talk about where Mark used to work? %[Past Jobs](postback:past_jobs)",
+	
+	"PAST JOBS":"After graduation, Mark moved to Dublin. That was 8 years ago. \nHis first job was in Bank of New York Mellon.  \nHe learned loads about the Financial Markets. He liked it so much he stayed for 6 years. \nMoving teams every few years to learn more and more. He really liked working there. We love Dublin! %[Give me more](postback:give_me_more)",
+	
+	"GIVE ME MORE":"Just between me and you. He wants to move into Financial Technology. \nI agree, Tech is evolving financial services faster than some big companies can react. \nMark wants to be a part of this revolution!! WooHoo :) %[More Career](postback:more_career)",
+	
+	"MORE CAREER":"Working up from Junior to Senior Fund Accountant and moving on to Corporate Actions.\nLike me, Mark loves working in busy teams. Learning new skills everyday, he's a hard worker! \nMark's last song on Spotify? \nOr I can tell you about his interests?\nWhat Mark has been up to outside of work? %[Last Song](postback:Last_song) %[Interests](postback:Interests) %[Outside](postback:outside)",
+	
+	"LAST SONG": "I Love to Love – Tina Charles! \nIt's a catchy song, YouTube it later. https://www.youtube.com/watch?v=dSuulW6XqSA \nWould you like get to know Mark outside of work? Or can I tell you about his interests? %[Outside](postback:Outside) %[Interests](postback:Interests)",
+	
+	"OUTSIDE": "We got married last April. Oh, I mean Mark got married. I was at the wedding too. What a PARRRRTY!\nMark married Nnenna. He did well, but Nnenna could have done better-LOL! She's realllllly HOT! \nOK, back to Interests. I got distracted for a min :) %[Interests](postback:Interests)",
+	
+	"INTERESTS": "Mark likes to run. He's no Mo Farah. But, he ran the Dublin Marathon'13. He runs half marathons every few months, if he doesn't get out for a run every two days, I have to remind him. \nOnce he's got his little shorts on, he loves it! He's like Forest Gump. Your ma'Boi Blue!\nWanna know a secret? %[of course](postback:of_course)",
+	
+	"OF COURSE": "Mark is afraid of Spiders! \nLOL I know. \nWanna know another? Or what book he is reading? %[YES](postback:yes) %[Book](postback:book)",
+	
+	"YES": "He LOVES The Walking Dead.\nHe reads Zombie books, watches Zombie shows. And then complains about NIGHTMARES!!\nBut, If Zombies did come, you would want him by your side swinging the bat!\nOh, I never told you about his qualifications. Or would you like to know his second favourite TV show? Or what book he is currently reading? %[More TV](postback:More_TV) %[Academics](postback:Academics) %[Book](postback:book)",
+	
+	"BOOK": "Mark is reading about the life of Elon Musk. It's a great read he says. \nOK let's find out where Mark went to college. %[Academics](postback:Academics)",
+	
+	"MORE TV": "WINTER IS COMING! :) Game of Thrones.\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/giphy.gif)\nOK let's find out where Mark went to college. Or do you want to know another secret? %[Academics](postback:Academics) %[YES](postback:yes)",
+	
+	"ACADEMICS": "Mark worked through college, In the family business while studying. \nAfter three years in Cork College of Commerce he moved to Swansea Uni and completed an HONS Business Degree. \nHe also has qualifications in Accounting and e-Commerce.\nWanna know about the family business? %[Spill it](postback:Spill_it)",
+	
+	"SPILL IT": "Mark's Dad set up a computer shop, that's where Mark found his interest in Tech. \nMark is very inquisitive. He likes to know how things work. \nThat's why he built me :) \nOh Mark would love to know if you like his Bot(Me). Please leave a comment on my FB wall, Like and tell your friends about me. %[Sure](postback:sure)",
+	
+	"SURE": " https://www.facebook.com/LikeMarkyBot/ Don't be a stranger!\nMark is always teaching me new tricks :)",
+	
+	"CONNECT ME": "",
+	
+	"DISCONNECT": "Roger that, MarkyBot is back."
 }
