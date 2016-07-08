@@ -70,7 +70,7 @@ do not have an entry in the scripts.json file. */
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(getReply()).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
