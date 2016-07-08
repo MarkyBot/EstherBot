@@ -1,6 +1,4 @@
 {
-	"CONNECT ME": "",
-	
 	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career. That's why he built me after all. %[Career](postback:Career)",
 	
 	"CAREER":"Great, I love talking about Mark's career. \nLast time I checked, he still works at Pioneer Investments. %[Tell me more](postback:Tell_me_more)",
