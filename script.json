@@ -1,5 +1,5 @@
 {
-	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career. That's why he built me after all. %[Career](postback:Career)",
+	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career Or his Interests. That's why he built me after all. %[Career](postback:Career) %[Interests](postback:Interests)",
 	
 	"CAREER":"Great, I love talking about Mark's career. \nLast time I checked, he still works at Pioneer Investments. %[Tell me more](postback:Tell_me_more)",
 	
@@ -19,9 +19,9 @@
 	
 	"OUTSIDE": "We got married last April. Oh, I mean Mark got married. I was at the wedding too. What a PARRRRTY!\nMark married Nnenna. He did well, but Nnenna could have done better-LOL! She's realllllly HOT! \nOK, back to Interests. I got distracted for a min :) %[Interests](postback:Interests)",
 	
-	"INTERESTS": "Mark likes to run. He's no Mo Farah. But, he ran the Dublin Marathon'13. He runs half marathons every few months, if he doesn't get out for a run every two days, I have to remind him. \nOnce he's got his little shorts on, he loves it! He's like Forest Gump. Your ma'Boi Blue!\nWanna know a secret? %[of course](postback:of_course)",
+	"INTERESTS": "Mark likes to run. He's no Mo Farah. But, he ran the Dublin Marathon'13. He runs half marathons every few months, if he doesn't get out for a run every two days, I have to remind him. \nOnce he's got his little shorts on, he loves it! He's like Forest Gump.\nWanna know a secret? Or find our about his Career? %[of course](postback:of_course) %[Career](postback:Career)",
 	
-	"OF COURSE": "Mark is afraid of Spiders! \nLOL I know. \nWanna know another? Or what book he is reading? %[YES](postback:yes) %[Book](postback:book)",
+	"OF COURSE": "Mark is afraid of Spiders! \nLOL I know. \nWanna know another? Or what book he is reading? Back to Career. %[Career](postback:Career) %[YES](postback:yes) %[Book](postback:book)",
 	
 	"YES": "He LOVES The Walking Dead.\nHe reads Zombie books, watches Zombie shows. And then complains about NIGHTMARES!!\nBut, If Zombies did come, you would want him by your side swinging the bat!\nOh, I never told you about his qualifications. Or would you like to know his second favourite TV show? Or what book he is currently reading? %[More TV](postback:More_TV) %[Academics](postback:Academics) %[Book](postback:book)",
 	
