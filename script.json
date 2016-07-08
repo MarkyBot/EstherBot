@@ -3,11 +3,11 @@
 	
 	"CAREER":"Great, I love talking about Mark's career. \nLast time I checked, he still works at Pioneer Investments. %[Tell me more](postback:Tell_me_more)",
 	
-	"TELL ME MORE":"OK, you asked for it! \nMark works in Investment Operations. \nSee, Mark looks after loads of Mutual and Hedge funds. There's $$$ flying round everywhere!. \nMark makes sure the money is correctly settled into the right funds. \nSo that Traders have access to cash when they need it-simple really ;) Where else did he work? %[Past Jobs](postback:past_jobs) %[Startups](postback:startups)",
+	"TELL ME MORE":"OK, you asked for it! \nMark works in Investment Operations. See, Mark looks after loads of Investment Funds. There's $$$ flying round everywhere!. \nMark makes sure the money is correctly settled into the right funds. \nSo that Traders have access to cash when they need it-simple really ;) Where else did he work? %[Past Jobs](postback:past_jobs) %[Startups](postback:startups)",
 	
 	"STARTUPS":"Mark would love to build his own Startup. He tried twice and failed!\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/hopes%20and%20dreams.gif)\nBut failing doesn't stop him from trying again. If you make a mistake, you learn and move forward. \nWould you like to know one of the Startups Mark worked on? Or skip to his past jobs? %[Past Jobs](postback:past_jobs) %[Yes Please](postback:yes_please)",
 	
-	"YES PLEASE":"OK, Mark and Nnenna(Wife & co-founder) built an on-demand Babysitting service, called Bummbl.\nBummbl had a few hundred sitters signed up and ready to Sit. We were developing the site and supporting technology to create an easy system for both parents and sitters.\nBut unfortunately Bummbl ran out of funding! :( Bummbl was a great learning experience for Mark. Anyway, shall we talk about where Mark used to work? %[Past Jobs](postback:past_jobs)",
+	"YES PLEASE":"OK, Mark and Nnenna (Wife & co-founder) built an on-demand Babysitting service, called Bummbl.\nBummbl had a few hundred sitters signed up and ready to Sit. We were developing the site and supporting technology to create an easy system for both parents and sitters.\nBut unfortunately Bummbl ran out of funding! :( Bummbl was a great learning experience for Mark. Anyway, shall we talk about where Mark used to work? %[Past Jobs](postback:past_jobs)",
 	
 	"PAST JOBS":"After graduation, Mark moved to Dublin. That was 8 years ago. \nHis first job was in Bank of New York Mellon.  \nHe learned loads about the Financial Markets. He liked it so much he stayed for 6 years. \nMoving teams every few years to learn more and more. He really liked working there. He (I mean WE) love Dublin! %[Give me more](postback:give_me_more)",
 	
@@ -27,7 +27,7 @@
 	
 	"BOOK": "Mark is reading about the life of Elon Musk. It's a great read he says. \nOK let's find out where Mark went to college. %[Academics](postback:Academics)",
 	
-	"MORE TV": "WINTER IS COMING! :) Game of Thrones.\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/winter%20is%20coming.gif)\nOK let's find out where Mark went to college. Or do you want to know another secret? %[Academics](postback:Academics) %[YES](postback:yes)",
+	"MORE TV": "WINTER IS COMING! ;) \n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/winter%20is%20coming.gif)\nOK let's find out where Mark went to college. Or do you want to know another secret? %[Academics](postback:Academics) %[YES](postback:yes)",
 	
 	"ACADEMICS": "Mark worked through college, In the family business while studying. \nAfter three years in Cork College of Commerce he moved to Swansea Uni and completed an HONS Business Degree. \nHe also has qualifications in Accounting and e-Commerce.\nWanna know about the family business? %[Spill it](postback:Spill_it)",
 	
