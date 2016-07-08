@@ -43,9 +43,7 @@ do not have an entry in the scripts.json file. */
             function getReply() {
                 var messages = [ "Sorry. I'm not configured with a response to your message. Hola Hello.",
                                  "Hey, I didn't understand that. I suggest saying Hello",
-                                 "You're not sending messages to an Artifical Intelligence program. Try Hello to see some other COMMANDS",
-                                 "The program responds to COMMANDS only. You have to send a command that I understand. :)",
-                                 "Seriously, you are wayyyyy smarter than MarkyBot. It just knows simple COMMANDS",
+                                 "我不明白 - that's is Chinese for I do no understand. Yes I can speak Chinese ;)",
                                  "Yo. I do not know what you are talking about. Send me a HELLO",
                                  "There is a ton of information in MarkyBot. You have to use COMMANDS to find it.",
                                  "That's interesting. Hhhmmm... I never thought of that. Maybe try Hello",
