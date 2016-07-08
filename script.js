@@ -43,16 +43,17 @@ do not have an entry in the scripts.json file. */
             function getReply() {
                 var messages = [ "Sorry. I'm not configured with a response to your message. Hola Hello.",
                                  "Hey, I didn't understand that. I suggest saying Hello",
-                                 "我不明白 - that's is Chinese for I do no understand. Yes I can speak Chinese ;)",
+                                 "我不明白 - that's Chinese for I do not understand. Yes I can speak Chinese ;)",
                                  "Yo. I do not know what you are talking about. Send me a HELLO",
-                                 "There is a ton of information in MarkyBot. You have to use COMMANDS to find it.",
+                                 "You can say that again!",
+                                 "You know what they say, don't not take life too seriously. You will never get out of it alive ;)",
+                                 "Weather forecast tonight: WINTER IS COMING",
+                                 "Life isn’t about getting and having, it’s about giving and being. That shit is DEEP LOL",
                                  "That's interesting. Hhhmmm... I never thought of that. Maybe try Hello",
                                  "Can you say that again?",
                                  "HODOR!...Wait, what did I just say. I'm watching too much TV.",
                                  "Yeah... that happens from time to time. Try Hello.",
                                  "That is a ton of words you just wrote there... I really don't know. Try Hello",
-                                 "Try sending a command without punctuation.",
-                                 "I'm not programmed to ignore punctuation. So if you're sending something other than letters... I don't understand it."
                                 ];
 
                 var arrayIndex = Math.floor( Math.random() * messages.length );
