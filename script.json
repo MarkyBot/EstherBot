@@ -27,7 +27,7 @@
 	
 	"BOOK": "Mark is reading about the life of Elon Musk. It's a great read he says. \nOK let's find out where Mark went to college. %[Academics](postback:Academics)",
 	
-	"MORE TV": "WINTER IS COMING! :) Game of Thrones.\nOK let's find out where Mark went to college. Or do you want to know another secret? %[Academics](postback:Academics) %[YES](postback:yes)",
+	"MORE TV": "WINTER IS COMING! :) Game of Thrones.\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/winter%20is%20coming.gif)\nOK let's find out where Mark went to college. Or do you want to know another secret? %[Academics](postback:Academics) %[YES](postback:yes)",
 	
 	"ACADEMICS": "Mark worked through college, In the family business while studying. \nAfter three years in Cork College of Commerce he moved to Swansea Uni and completed an HONS Business Degree. \nHe also has qualifications in Accounting and e-Commerce.\nWanna know about the family business? %[Spill it](postback:Spill_it)",
 	
