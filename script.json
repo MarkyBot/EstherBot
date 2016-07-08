@@ -1,23 +1,23 @@
 {
-	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career Or his Interests. That's why he built me after all. %[Career](postback:Career) %[Interests](postback:Interests)",
+	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career or his Interests. That's why he built me after all. %[Career](postback:Career) %[Interests](postback:Interests)",
 	
 	"CAREER":"Great, I love talking about Mark's career. \nLast time I checked, he still works at Pioneer Investments. %[Tell me more](postback:Tell_me_more)",
 	
 	"TELL ME MORE":"OK, you asked for it! \nMark works in Investment Operations. \nSee, Mark looks after loads of Mutual and Hedge funds. There's $$$ flying round everywhere!. \nMark makes sure the money is correctly settled into the right funds. \nSo that Traders have access to cash when they need it-simple really ;) Where else did he work? %[Past Jobs](postback:past_jobs) %[Startups](postback:startups)",
 	
-	"STARTUPS":"Mark would love to build his own Startup. He tried twice and failed!\nBut failing doesn't stop him from trying again. If you make a mistake, you learn and move forward. \nWould you like to know one of the Startups Mark worked on? Or skip to his past jobs? %[Past Jobs](postback:past_jobs) %[Yes Please](postback:yes_please)",
+	"STARTUPS":"Mark would love to build his own Startup. He tried twice and failed!\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/hopes%20and%20dreams.gif)\nBut failing doesn't stop him from trying again. If you make a mistake, you learn and move forward. \nWould you like to know one of the Startups Mark worked on? Or skip to his past jobs? %[Past Jobs](postback:past_jobs) %[Yes Please](postback:yes_please)",
 	
-	"YES PLEASE":"OK, Mark and Nnenna built an on-demand Babysitting service, called Bummbl.\nBummbl had a few hundred sitters signed up and ready to Sit. We were developing the site and supporting technology to create an easy system for both parents and sitters.\nBut unfortunately Bummbl ran out of funding! :( Bummbl was a great learning experience for Mark. Anyway, shall we talk about where Mark used to work? %[Past Jobs](postback:past_jobs)",
+	"YES PLEASE":"OK, Mark and Nnenna(Wife & co-founder) built an on-demand Babysitting service, called Bummbl.\nBummbl had a few hundred sitters signed up and ready to Sit. We were developing the site and supporting technology to create an easy system for both parents and sitters.\nBut unfortunately Bummbl ran out of funding! :( Bummbl was a great learning experience for Mark. Anyway, shall we talk about where Mark used to work? %[Past Jobs](postback:past_jobs)",
 	
-	"PAST JOBS":"After graduation, Mark moved to Dublin. That was 8 years ago. \nHis first job was in Bank of New York Mellon.  \nHe learned loads about the Financial Markets. He liked it so much he stayed for 6 years. \nMoving teams every few years to learn more and more. He really liked working there. We love Dublin! %[Give me more](postback:give_me_more)",
+	"PAST JOBS":"After graduation, Mark moved to Dublin. That was 8 years ago. \nHis first job was in Bank of New York Mellon.  \nHe learned loads about the Financial Markets. He liked it so much he stayed for 6 years. \nMoving teams every few years to learn more and more. He really liked working there. He (I mean WE) love Dublin! %[Give me more](postback:give_me_more)",
 	
-	"GIVE ME MORE":"Just between me and you. He wants to move into Financial Technology. \nI agree, Tech is evolving financial services faster than some big companies can react. \nMark wants to be a part of this revolution!! WooHoo :) %[More Career](postback:more_career)",
+	"GIVE ME MORE":"Just between me and you, Mark is excited about the FinTech industry. \nI agree, Tech is evolving financial services faster than some big companies can react. \nMark wants to be a part of this revolution!! WooHoo :) %[More Career](postback:more_career)",
 	
 	"MORE CAREER":"Working up from Junior to Senior Fund Accountant and moving on to Corporate Actions.\nLike me, Mark loves working in busy teams. Learning new skills everyday, he's a hard worker! \nMark's last song on Spotify? \nOr I can tell you about his interests?\nWhat Mark has been up to outside of work? %[Last Song](postback:Last_song) %[Interests](postback:Interests) %[Outside](postback:outside)",
 	
-	"LAST SONG": "I Love to Love – Tina Charles! \nIt's a catchy song, YouTube it later. https://www.youtube.com/watch?v=dSuulW6XqSA \nWould you like get to know Mark outside of work? Or can I tell you about his interests? %[Outside](postback:Outside) %[Interests](postback:Interests)",
+	"LAST SONG": "I Love to Love – Tina Charles! \nIt's a catchy song. It's from the BBC show River. YouTube it later. https://www.youtube.com/watch?v=dSuulW6XqSA \nWould you like get to know Mark outside of work? Or can I tell you about his interests? %[Outside](postback:Outside) %[Interests](postback:Interests)",
 	
-	"OUTSIDE": "We got married last April. Oh, I mean Mark got married. I was at the wedding too. What a PARRRRTY!\nMark married Nnenna. He did well, but Nnenna could have done better-LOL! She's realllllly HOT! \nOK, back to Interests. I got distracted for a min :) %[Interests](postback:Interests)",
+	"OUTSIDE": "We got married last April. Oh, I mean Mark got married. I was at the wedding too. What a PARRRRTY!\nMark married Nnenna. He did well, she's realllllly HOT! LOL! They met and it was love at first sight.\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/cupid.gif)\nOK, back to Interests. I got distracted for a min :) %[Interests](postback:Interests)",
 	
 	"INTERESTS": "Mark likes to run. He's no Mo Farah. But, he ran the Dublin Marathon'13. He runs half marathons every few months, if he doesn't get out for a run every two days, I have to remind him. \nOnce he's got his little shorts on, he loves it! He's like Forest Gump.\nWanna know a secret? Or find our about his Career? %[of course](postback:of_course) %[Career](postback:Career)",
 	
