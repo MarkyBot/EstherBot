@@ -33,7 +33,7 @@
 	
 	"SPILL IT": "Mark's Dad set up a computer shop, that's where Mark found his interest in Tech. \nMark is very inquisitive. He likes to know how things work. \nThat's why he built me :) \nOh Mark would love to know if you like his Bot(Me). Please leave a comment on my FB wall, Like and tell your friends about me. %[Sure](postback:sure)",
 	
-	"SURE": " https://www.facebook.com/LikeMarkyBot/ Don't be a stranger!\nMark is always teaching me new tricks :)",
+	"SURE": "Don't be a stranger!\nMark is always teaching me new tricks :) %[Facebook](https://www.facebook.com/LikeMarkyBot/?ref=aymt_homepage_panel)",
 	
 	"CONNECT ME": "",
 	
