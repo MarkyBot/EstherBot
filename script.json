@@ -5,7 +5,7 @@
 	
 	"TELL ME MORE":"OK, you asked for it! \nMark works in Investment Operations. See, Mark looks after loads of Investment Funds. There's $$$ flying round everywhere!. \nMark makes sure the money is correctly settled into the right funds. \nSo that Traders have access to cash when they need it-simple really ;) Where else did he work? %[Past Jobs](postback:past_jobs) %[Startups](postback:startups)",
 	
-	"STARTUPS":"Mark would love to build his own Startup. He tried twice and failed!\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/hand%20clap.gif)%[Yes Please](postback:yes_please)\nBut failing doesn't stop him from trying again. If you make a mistake, you learn and move forward. \nWould you like to know one of the Startups Mark worked on? Or skip to his past jobs? %[Past Jobs](postback:past_jobs) %[Yes Please](postback:yes_please)",
+	"STARTUPS":"Mark would love to build his own Startup. He tried twice and failed!\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/hand%20clap.gif)\nBut failing doesn't stop him from trying again. If you make a mistake, you learn and move forward. \nWould you like to know one of the Startups Mark worked on? Or skip to his past jobs? %[Past Jobs](postback:past_jobs) %[Yes Please](postback:yes_please)",
 	
 	"YES PLEASE":"OK, Mark and Nnenna (Wife & co-founder) built an on-demand Babysitting service, called Bummbl.\nBummbl had a few hundred sitters signed up and ready to Sit. We were developing the site and supporting technology to create an easy system for both parents and sitters.\nBut unfortunately Bummbl ran out of funding! :( Bummbl was a great learning experience for Mark. Anyway, shall we talk about where Mark used to work? %[Past Jobs](postback:past_jobs)",
 	
