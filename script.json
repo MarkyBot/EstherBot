@@ -1,5 +1,5 @@
 {
-	"HELLO": "Hi there! I am Mark's personal bot, and here's a picture of Mark and his Mum, ahwww.\n![imgs](https://raw.githubusercontent.com/MarkyBot/EstherBot/master/img/mark%20and%20mom.jpg)\n I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career or his Interests. That's why he built me after all. %[Career](postback:Career) %[Interests](postback:Interests)",
+	"HELLO": "Hi there! I am Mark's personal bot, I know nearly everything about him and I'm still learning! :) \nLet's chat about his Career or his Interests. That's why he built me after all. %[Career](postback:Career) %[Interests](postback:Interests)",
 	
 	"CAREER":"Great, I love talking about Mark's career. \nLast time I checked, he still works at Pioneer Investments. %[Tell me more](postback:Tell_me_more)",
 	
