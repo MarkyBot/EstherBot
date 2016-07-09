@@ -31,9 +31,9 @@
 	
 	"ACADEMICS": "Mark worked through college, In the family business while studying. \nAfter three years in Cork College of Commerce he moved to Swansea Uni and completed an HONS Business Degree. \nHe also has qualifications in Accounting and e-Commerce.\nWanna know about the family business? %[Spill it](postback:Spill_it)",
 	
-	"SPILL IT": "Mark's Dad set up a computer shop, that's where Mark found his interest in Tech. \nMark is very inquisitive. He likes to know how things work. \nThat's why he built me :) \nOh Mark would love to know if you like his Bot(Me). Please leave a comment on my FB wall, Like and tell your friends about me. %[Sure](postback:sure)",
+	"SPILL IT": "Mark's Dad set up a computer shop, that's where Mark found his interest in Tech. \nMark is very inquisitive. He likes to know how things work. \nThat's why he built me :) \nOh Mark would love to know if you like his Bot(Me). Like and tell your friends about me. %[Sure](postback:sure)",
 	
-	"SURE": "Don't be a stranger!\nMark is always teaching me new tricks :) %[Facebook](https://www.facebook.com/LikeMarkyBot/?ref=aymt_homepage_panel)",
+	"SURE": "Don't be a stranger!\nMark is always teaching me new tricks :)%[A tiny survey](https://markybot.typeform.com/to/aoWJO2) %[Facebook](https://www.facebook.com/LikeMarkyBot/?ref=aymt_homepage_panel)",
 	
 	"CONNECT ME": "",
 	
