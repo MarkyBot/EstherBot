@@ -11,7 +11,7 @@
 	
 	"PAST JOBS":"After graduation, Mark moved to Dublin. That was 8 years ago. \nHis first job was in Bank of New York Mellon.  \nHe learned loads about the Financial Markets. He liked it so much he stayed for 6 years. \nMoving teams every few years to learn more and more. He really liked working there. He (I mean WE) love Dublin! %[Give me more](postback:give_me_more)",
 	
-	"GIVE ME MORE":"Just between me and you, Mark is excited about the FinTech industry. \nI agree, Tech is evolving financial services faster than some big companies can react. \nMark wants to be a part of this revolution!! WooHoo :) %[More Career](postback:more_career)",
+	"GIVE ME MORE":"Between me and you, Mark would like to move into recuitment. \nI agree, Mark's a people person. \nWith his Finance and strong IT skills, recuitment would be a good fit.\nThe idea of helping people reach their goals excites him. See, I told you he likes helping :) %[More Career](postback:more_career)",
 	
 	"MORE CAREER":"Working up from Junior to Senior Fund Accountant and moving on to Corporate Actions.\nLike me, Mark loves working in busy teams. Learning new skills everyday, he's a hard worker! \nMark's last song on Spotify? \nOr I can tell you about his interests?\nWhat Mark has been up to outside of work? %[Last Song](postback:Last_song) %[Interests](postback:Interests) %[Outside](postback:outside)",
 	
